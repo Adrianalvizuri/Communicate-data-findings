@@ -4,3 +4,7 @@ This project is divided into two major parts. In the first part, you will conduc
 
 
 In the second part, you will take your main findings from your exploration and convey them to others through an explanatory analysis. To this end, you will create a slide deck that leverages polished, explanatory visualizations to communicate your results. This part of the project should make heavy use of the first part of the project. Select one or two major paths in your exploration, choose relevant visualizations along that path, and then polish them to construct a story for your readers to understand what you found.
+
+
+Dataset Options
+Ford GoBike System Data
