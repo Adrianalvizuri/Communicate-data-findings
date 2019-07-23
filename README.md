@@ -9,3 +9,22 @@ In the second part, you will take your main findings from your exploration and c
 Data:
 This project used the following dataset:
 - Ford GoBike System Data
+
+Also, 
+this code for hiding the code in slides:
+
+from IPython.display import HTML
+
+HTML('''<script>
+code_show=true; 
+function code_toggle() {
+ if (code_show){
+ $('div.input').hide();
+ } else {
+ $('div.input').show();
+ }
+ code_show = !code_show
+} 
+$( document ).ready(code_toggle);
+</script>
+<form action="javascript:code_toggle()"><input type="submit" value="Click here to toggle on/off the raw code."></form>''')
